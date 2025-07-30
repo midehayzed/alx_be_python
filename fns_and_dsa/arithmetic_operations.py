@@ -1,4 +1,4 @@
-def perform_arithmetic_operations(num1, num2, operation):
+def perform_operations(num1, num2, operation):
     """
     Perform basic arithmetic operations on two numbers.
     
